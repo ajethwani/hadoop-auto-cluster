@@ -28,6 +28,7 @@ while True :
 		|
 		|
 		***###      ______________      ###***
+
 	"""
 
 	ch = raw_input("Enter Choice : ")
@@ -88,13 +89,11 @@ while True :
 
 		***###      ---- CUSTOM CLUSTER MENU ----      ###***
 		|
-		|	NOTE: Cluster has already been sorted		 
-		|	as per requirements.
-		|	
-		|	If you still wish to edit the cluster 
+		|	NOTE: 
+		|	If you manually wish to edit the cluster 
 		|	files, press any of the below, edit the 
-		|	files, save and press 44 to Create Cluster 
-		|	with the new settings.
+		|	files, save changes and press 44 to Create 
+		|	Cluster with the new settings.
 		|
 		|	Press :         
 		|	11 -> Edit NameNode
@@ -105,7 +104,8 @@ while True :
 		|	x -> Exit to Main Menu
 		|
 		|
-		***###      	    ______________      	###***
+		***###      	________________       		   ###***
+
 		"""
 			cch = raw_input("Enter Choice : ")
 	
